@@ -2,6 +2,8 @@
 
 > The AWS Certified Solutions Architect - Professional exam is intended for individuals who perform a solutions architect role with two or more years of hands-on experience managing and operating systems on AWS.
 
+:books: [Study Notes](https://github.com/russomi-labs/aws-solutions-architect-study-notes/wiki)
+
 ### Abilities Validated by the Certification
 
 - Design and deploy dynamically scalable, highly available, fault-tolerant, and reliable applications on AWS
